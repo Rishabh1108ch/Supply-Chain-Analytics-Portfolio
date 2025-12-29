@@ -4,6 +4,27 @@ This repository provides an overview of my **end-to-end analytics, supply chain,
 Each project demonstrates practical problem-solving using **Power BI, SQL, Python, Excel, and Automation tools**, focused on real-world business use cases.
 
 ---
+## 📈 Quantitative Finance & Forecasting Projects
+
+### 🔹 Natural Gas Price Forecasting
+🔗 GitHub:  
+https://github.com/Rishabh1108ch/JP_Morgan_Quantitative_Research/blob/main/Task1-Natural-Gas-Price-Forecasting/Readme-Task1.md  
+ 
+Performed time-series analysis and forecasting of natural gas prices using historical data.  
+Applied trend and seasonality analysis to support pricing and risk management decisions.
+
+**Key Skills:** Python, Time Series Forecasting, Data Analysis, Quantitative Research  
+
+---
+
+### 🔹 Commodity Storage Contract Pricing Model
+🔗 GitHub:  
+https://github.com/Rishabh1108ch/JP_Morgan_Quantitative_Research/blob/main/Task2%3A-Price_a_commodity_storage_contract/Task2Reaedme.md  
+ 
+Built a pricing model for a commodity storage contract considering storage costs, interest rates, and future price uncertainty.  
+Demonstrated financial modeling and valuation logic used in real-world commodity trading.
+
+**Key Skills:** Financial Modeling, Python, Quantitative Analysis  
 
 ## 📊 Analytics & Business Intelligence Projects
 
@@ -55,30 +76,6 @@ Created an interactive MIS dashboard in Excel using Pivot Tables, Slicers, and a
 Automated sales performance tracking, target vs actual analysis, and regional reporting for management review.
 
 **Key Skills:** Advanced Excel, MIS Reporting, Automation, Business Reporting  
-
----
-
-## 📈 Quantitative Finance & Forecasting Projects
-
-### 🔹 Natural Gas Price Forecasting
-🔗 GitHub:  
-https://github.com/Rishabh1108ch/JP_Morgan_Quantitative_Research/blob/main/Task1-Natural-Gas-Price-Forecasting/Readme-Task1.md  
- 
-Performed time-series analysis and forecasting of natural gas prices using historical data.  
-Applied trend and seasonality analysis to support pricing and risk management decisions.
-
-**Key Skills:** Python, Time Series Forecasting, Data Analysis, Quantitative Research  
-
----
-
-### 🔹 Commodity Storage Contract Pricing Model
-🔗 GitHub:  
-https://github.com/Rishabh1108ch/JP_Morgan_Quantitative_Research/blob/main/Task2%3A-Price_a_commodity_storage_contract/Task2Reaedme.md  
- 
-Built a pricing model for a commodity storage contract considering storage costs, interest rates, and future price uncertainty.  
-Demonstrated financial modeling and valuation logic used in real-world commodity trading.
-
-**Key Skills:** Financial Modeling, Python, Quantitative Analysis  
 
 ---
 
