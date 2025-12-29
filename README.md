@@ -4,6 +4,19 @@ This repository provides an overview of my **end-to-end analytics, supply chain,
 Each project demonstrates practical problem-solving using **Power BI, SQL, Python, Excel, and Automation tools**, focused on real-world business use cases.
 
 ---
+### 🔹 Logistics Demand Forecasting Using Machine Learning | Python  
+🔗 https://github.com/Rishabh1108ch/Logistics-Demand-Forecasting-Using-Machine-Learning  
+
+- Built machine-learning models to forecast logistics demand using historical shipment and order data  
+- Evaluated model performance using metrics such as **MAE, RMSE, and R²** to ensure accuracy  
+- Identified key features impacting demand including **seasonality, lead time, and shipment weight**  
+- Reduced forecast error and improved future capacity planning for logistics operations  
+- Provided insights to support **inventory planning, staffing, and transportation scheduling**  
+- Created visualizations illustrating predicted vs actual demand trends and feature importance  
+
+**Tools:** Python (Pandas, Scikit-Learn, Matplotlib, Seaborn), Jupyter Notebook
+
+
 ## 📈 Quantitative Finance & Forecasting Projects
 
 ### 🔹 Natural Gas Price Forecasting
