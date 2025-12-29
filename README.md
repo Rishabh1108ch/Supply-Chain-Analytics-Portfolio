@@ -7,6 +7,27 @@ Each project demonstrates practical problem-solving using **Power BI, SQL, Pytho
 
 ## 📊 Analytics & Business Intelligence Projects
 
+### 🔹 Logistics Performance Analysis (Power BI)
+🔗 GitHub: https://github.com/Rishabh1108ch/Logistics-Performance-Analysis  
+ 
+Designed a logistics performance dashboard to monitor shipments, revenue, delivery timelines, and return rates.  
+Identified regional bottlenecks, delivery delays, and salesperson performance to improve operational efficiency.
+
+**Key Skills:** Supply Chain KPIs, Logistics Analytics, Power BI, Operations Analysis
+
+### 🔹 Fleet Performance Optimization | Python  | Jupyter notebook
+🔗 GitHub: https://github.com/Rishabh1108ch/Fleet-Performance-Optimization
+- Analyzed truck-level operational, cost, and freight data to evaluate **fleet efficiency and profitability**  
+- Integrated fuel, maintenance, fixed cost, revenue, weight, and distance datasets from Kaggle  
+- Calculated key KPIs including **Cost per Kilometer, Maintenance per Kilometer, Revenue per Kilogram, and Profit Margins**  
+- Analyzed impact of **fuel efficiency, maintenance costs, and kilometers traveled** on net profit  
+- Identified **underperforming trucks, routes, and regions** with high cost per km and low margins  
+- Evaluated **fuel consumption vs distance traveled** and detected maintenance cost anomalies  
+- Analyzed **geographic and customer-wise revenue contribution** to support route and resource optimization  
+
+**Tools:** Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly), Jupyter Notebook, Excel
+
+
 ### 🔹 Financial Data Analysis (Power BI)
 🔗 GitHub: https://github.com/Rishabh1108ch/Financial-Data-Analysis  
  
@@ -23,17 +44,7 @@ Identified high-performing products, low-margin sectors, seasonal trends, and di
 Developed a dynamic sales and marketing dashboard to track revenue, customer behavior, regional performance, and conversion trends.  
 Enabled decision-makers to evaluate promotional effectiveness and market penetration across channels.
 
-**Key Skills:** Power BI, Marketing Analytics, Customer Insights, Visualization  
-
----
-
-### 🔹 Logistics Performance Analysis (Power BI)
-🔗 GitHub: https://github.com/Rishabh1108ch/Logistics-Performance-Analysis  
- 
-Designed a logistics performance dashboard to monitor shipments, revenue, delivery timelines, and return rates.  
-Identified regional bottlenecks, delivery delays, and salesperson performance to improve operational efficiency.
-
-**Key Skills:** Supply Chain KPIs, Logistics Analytics, Power BI, Operations Analysis  
+**Key Skills:** Power BI, Marketing Analytics, Customer Insights, Visualization    
 
 ---
 
